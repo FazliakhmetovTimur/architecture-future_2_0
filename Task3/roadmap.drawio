@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Страница — 1" id="tUBkL45ArFZqeetzuR0i">
+    <mxGraphModel dx="786" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="sourcePoint" />
+            <mxPoint x="160" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="600" as="sourcePoint" />
+            <mxPoint x="640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="320" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="600" as="sourcePoint" />
+            <mxPoint x="800" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-7" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="120" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-8" value="Q1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-9" value="Q4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-10" value="Q3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-11" value="Q2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-13" value="Команда финтех сервиса" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="85" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-14" value="Переход на отдельное хранилище данных.&lt;br&gt;И взаимодействие через REST API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-15" value="Команда внутренних сервисов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-16" value="Переход на отдельное хранилище данных.&lt;div&gt;И взаимодействие через Kafka&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-17" value="Деплой и настройка Кафки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-18" value="Команда BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-19" value="Деплой и настройка всех нужных инструментов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-20" value="Разработка скриптов в Airflow для получения данных из новых хранилищ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-21" value="Команда медицинсокго сервиса" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-22" value="Переход на отдельное хранилище данных.&lt;div&gt;И взаимодействие через Kafka&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-23" value="Финализация интеграции с новыми хранилищами/сервисами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Результаты Q1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Выполнены проектировочные работы в командах для перехода на новых хранилища данных.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Развернута Kafka для организации межсервисного взаимодействия&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Результаты Q2&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Сервис финтеха перешел на свое отдельное хранилище.&lt;/p&gt;&lt;p&gt;Для BI выполнена развертывание всех необходимых инструментов. Они готовы к приему данных из новых хранилищ&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Результаты Q3&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Внутренние сервисы перешли на свое отдельное хранилище.&lt;/p&gt;&lt;p&gt;Запущена приемка данных из новых хранилищ в систему BI через Airflow.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Идет отладка. Старый BI работает одновременно с новым.&lt;/p&gt;&lt;p&gt;Сервис медицины пока работает по старому.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DB0Go3XmyC7R2o2SM82Z-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Результаты Q4&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Сервис медицины перешел на новое хранилише.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Новый BI полностью отлажен и заменил старый.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Старый BI отключен.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="160" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
